@@ -12,7 +12,7 @@
 ![SQLSERVER](https://img.shields.io/badge/SQL_Server-9559a4?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-ad6fbb?logoColor=white&style=for-the-badge)
 
-### :wrench: Ferramentas de Apoio 
+### :wrench: Ferramentas
 ![Git](https://img.shields.io/badge/GIT-000f68?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-011d7a?logo=docker&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-022a8c.svg?style=for-the-badge&logo=Postman&logoColor=white)
