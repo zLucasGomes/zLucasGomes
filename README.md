@@ -47,7 +47,7 @@
 <hr>
 
 
-<h5 align="center">Entre em contato, estou à disposição :relaxed:</h5>
+<h3 align="center">Entre em contato, estou à disposição :relaxed:</h3>
 <h4 align="center">
     <a href="mailto:zlucasgomescruz@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0f8722?logo=gmail&logoColor=white&style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/zlucasgomes/" target="blank"><img src="https://img.shields.io/badge/linkedin-077511.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
