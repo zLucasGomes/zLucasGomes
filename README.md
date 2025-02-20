@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zLucasGomes&hide=contribs,prs&theme=bear" alt="Anurag's GitHub stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLucasGomes&theme=bear&layout=compact&langs_count=8" alt="Top Langs">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLucasGomes&theme=bear&layout=compact" alt="Top Langs">
 </p>
 
 <hr>
