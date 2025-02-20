@@ -37,6 +37,8 @@
 
 <hr>
 
+### :bar_chart: Meus status
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zLucasGomes&hide=contribs,prs&theme=bear" alt="Anurag's GitHub stats">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLucasGomes&theme=bear&layout=compact" alt="Top Langs">
@@ -45,12 +47,10 @@
 <hr>
 
 
-
 <h4 align="left">Estou à disposição :relaxed:</h4>
 <h4 align="left">
     <a href="mailto:zlucasgomescruz@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0f8722?logo=gmail&logoColor=white&style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/zlucasgomes/" target="blank"><img src="https://img.shields.io/badge/linkedin-077511.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    
 </h4>
 
 <p align="right"><sub>Filme: Os Miseráveis</sub> :musical_note:</p>
