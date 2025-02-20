@@ -47,7 +47,7 @@
 <hr>
 
 
-<h4 align="center">Entre em contato, estou à disposição :relaxed:</h4>
+<h5 align="center">Entre em contato, estou à disposição :relaxed:</h5>
 <h4 align="center">
     <a href="mailto:zlucasgomescruz@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0f8722?logo=gmail&logoColor=white&style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/zlucasgomes/" target="blank"><img src="https://img.shields.io/badge/linkedin-077511.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -57,7 +57,7 @@
 
 <hr>
 
-<h4 align="center">Isso é tudo pessoal :wave:</h4>
+<h3 align="center">Isso é tudo pessoal :wave:</h3>
 <h5 align="center">“Don't give up. Not ever. Not for one single day. Be safe, if you can be. But always be amazing”</h5>
 <h5 align="center">-Clara Oswald, Doctor Who S08EP03: Robot of Sherwood</h5>
 <!--
