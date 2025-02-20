@@ -37,11 +37,11 @@
 
 <hr>
 
-### :bar_chart: Meus status
+<h3 align="center">:bar_chart: Meus status</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zLucasGomes&hide=contribs,prs&theme=bear" alt="Anurag's GitHub stats">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLucasGomes&theme=bear&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=zLucasGomes&hide=contribs,prs&theme=bear">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLucasGomes&theme=bear&layout=compact">
 </p>
 
 <hr>
