@@ -50,12 +50,14 @@
 <h4 align="left">
     <a href="mailto:zlucasgomescruz@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0f8722?logo=gmail&logoColor=white&style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/zlucasgomes/" target="blank"><img src="https://img.shields.io/badge/linkedin-077511.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <img src="https://komarev.com/ghpvc/?username=zLucasGomes&label=%F0%9F%91%80&color=006300&style=for-the-badge" alt="Profile Views">   
+    
 </h4>
 
 <p align="right"><sub>Filme: Os Miseráveis</sub> :musical_note:</p>
 <p align="right"><sub>Livro: O Lar da Srta. Peregrine para Crianças Peculiares</sub> :bookmark:</p>
 <p align="right"><sub>Música: Álvaro Mamute - Sobre Barcos, Meninos E Sonhos</sub> :notes:</p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=zLucasGomes&label=%F0%9F%91%80&color=006300&style=for-the-badge" alt="Profile Views"></p>
+
 <!--
 **zLucasGomes/zLucasGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
