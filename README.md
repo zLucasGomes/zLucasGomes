@@ -46,8 +46,8 @@
 
 
 
-<h4 align="right">Estou à disposição :relaxed:</h4>
-<h4 align="right">
+<h4 align="left">Estou à disposição :relaxed:</h4>
+<h4 align="left">
     <a href="mailto:zlucasgomescruz@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-0f8722?logo=gmail&logoColor=white&style=for-the-badge"></a>
     <a href="https://www.linkedin.com/in/zlucasgomes/" target="blank"><img src="https://img.shields.io/badge/linkedin-077511.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <img src="https://komarev.com/ghpvc/?username=zLucasGomes&label=%F0%9F%91%80&color=006300&style=for-the-badge" alt="Profile Views">   
