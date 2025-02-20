@@ -58,6 +58,11 @@
 <p align="right"><sub>Música: Álvaro Mamute - Sobre Barcos, Meninos E Sonhos</sub> :notes:</p>
 <p align="right"><img src="https://komarev.com/ghpvc/?username=zLucasGomes&label=%F0%9F%91%80&color=006300&style=for-the-badge" alt="Profile Views"></p>
 
+<hr>
+
+<h3 align="center">Isso é tudo pessoal :wave:</h3>
+<h5 align="center">“Don't give up. Not ever. Not for one single day. Be safe, if you can be. But always be amazing”</h5>
+<h5 align="center">-Clara Oswald, Doctor Who S08EP03: Robot of Sherwood</h5>
 <!--
 **zLucasGomes/zLucasGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
