@@ -1,7 +1,7 @@
 <h1 align="center">:star:Oi, eu sou o Lucas:computer:</h1>
 
 <h3 align="center">Eu sou um Desenvolvedor de Software, sempre buscando aprender e aprimorar meus conhecimentos.</h3>
-<p align="center">Nas horas vagas eu sou um <s>cinéfilo</s>, amante de cinema assíduo, okie dokie :innocent:</p>
+<p align="center">Nas horas vagas eu sou um <s>cinéfilo</s>, amante assíduo de cinema, okie dokie :innocent:</p>
 
 <hr>
 
