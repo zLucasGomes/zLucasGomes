@@ -18,7 +18,7 @@
 ![Postman](https://img.shields.io/badge/Postman-022a8c.svg?style=for-the-badge&logo=Postman&logoColor=white)
 ![InteliJ](https://img.shields.io/badge/IntelliJ-03389e?logo=intellij-idea&logoColor=white&style=for-the-badge)
 
-### 🤓 Já coloquei meu nariz...
+### 🤓 Já coloquei meu nariz em:
 
 ![MySQL](https://img.shields.io/badge/MySQL-f7df1e?logo=mysql&logoColor=black&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eed826?logo=postgresql&logoColor=black&style=for-the-badge)
