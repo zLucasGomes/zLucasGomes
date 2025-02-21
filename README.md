@@ -16,7 +16,6 @@
 ![Git](https://img.shields.io/badge/GIT-000f68?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-011d7a?logo=docker&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-022a8c.svg?style=for-the-badge&logo=Postman&logoColor=white)
-![InteliJ](https://img.shields.io/badge/IntelliJ-03389e?logo=intellij-idea&logoColor=white&style=for-the-badge)
 
 ### 🤓 Já coloquei meu nariz em:
 
