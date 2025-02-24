@@ -36,9 +36,11 @@
 
 ## 🏅 Certificações
 
-<a href="https://learn.microsoft.com/api/credentials/share/pt-br/LucasCruz-9871/A3867F84F642648D?sharingId">
-<img src="badges/microsoft-certified-azure-fundamentals.png" height="130px" width="auto" alt="Microsoft Azure Fundamentals (AZ-900) Certification badge" align="center" />
-</a>
+<div align="center">
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/LucasCruz-9871/A3867F84F642648D?sharingId">
+    <img src="badges/microsoft-certified-azure-fundamentals.png" height="130px" width="auto" alt="Microsoft Azure Fundamentals (AZ-900) Certification badge" />
+  </a>
+</div>
 
 ## :bar_chart: Meus status
 
