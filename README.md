@@ -3,7 +3,7 @@
 <h3 align="center">Eu sou um Desenvolvedor de Software, sempre buscando aprender e aprimorar meus conhecimentos.</h3>
 <p align="center">Nas horas vagas eu sou um <s>cinéfilo</s>, amante assíduo de cinema, okie dokie :innocent:</p>
 
-<hr>
+<br>
 
 ## :books: Especializações
 ![C#](https://img.shields.io/badge/C%23-4e155d?logo=c-sharp&logoColor=white&style=for-the-badge)
