@@ -34,6 +34,12 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-898778?logo=bootstrap&logoColor=black&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/pandas-808080.svg?style=for-the-badge&logo=pandas&logoColor=black)
 
+## 🏅 Certificações
+
+<a href="https://www.youracclaim.com/badges/9c3bae1f-506c-4c1d-821a-5c1f4a6eed9f">
+<img src="assets/badges/microsoft-certified-azure-fundamentals.png" height="130px" width="auto" alt="Microsoft Azure Fundamentals (AZ-900) Certification badge" align="right" />
+</a>
+
 <hr>
 
 <h3 align="center">:bar_chart: Meus status</h3>
