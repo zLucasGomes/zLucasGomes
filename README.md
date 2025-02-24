@@ -5,19 +5,19 @@
 
 <hr>
 
-### :books: Especializações
+## :books: Especializações
 ![C#](https://img.shields.io/badge/C%23-4e155d?logo=c-sharp&logoColor=white&style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-662c75?logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-7e428c?style=for-the-badge)
 ![SQLSERVER](https://img.shields.io/badge/SQL_Server-9559a4?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-ad6fbb?logoColor=white&style=for-the-badge)
 
-### :wrench: Ferramentas
+## :wrench: Ferramentas
 ![Git](https://img.shields.io/badge/GIT-000f68?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-011d7a?logo=docker&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-022a8c.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
-### 🤓 Já coloquei meu nariz em:
+## 🤓 Eu também sei:
 
 ![MySQL](https://img.shields.io/badge/MySQL-f7df1e?logo=mysql&logoColor=black&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-eed826?logo=postgresql&logoColor=black&style=for-the-badge)
@@ -36,17 +36,15 @@
 
 ## 🏅 Certificações
 
-<a href="https://www.youracclaim.com/badges/9c3bae1f-506c-4c1d-821a-5c1f4a6eed9f">
-<img src="assets/badges/microsoft-certified-azure-fundamentals.png" height="130px" width="auto" alt="Microsoft Azure Fundamentals (AZ-900) Certification badge" align="right" />
+<a href="https://learn.microsoft.com/api/credentials/share/pt-br/LucasCruz-9871/A3867F84F642648D?sharingId">
+<img src="badges/microsoft-certified-azure-fundamentals.png" height="130px" width="auto" alt="Microsoft Azure Fundamentals (AZ-900) Certification badge" align="center" />
 </a>
 
-<hr>
-
-<h3 align="center">:bar_chart: Meus status</h3>
+## :bar_chart: Meus status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zLucasGomes&hide=contribs,prs&theme=bear">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLucasGomes&theme=bear&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=zLucasGomes&hide=contribs,prs&theme=bear">  
 </p>
 
 <hr>
